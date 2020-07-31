@@ -21,7 +21,7 @@ return its zigzag level order traversal as:
   [15,7]
 ]
  */
-class BinaryMaxPathSum {
+class ZigZagTraversal {
     
     List<List<Integer>> zigzagTraversal = new ArrayList<List<Integer>>();
     Stack<TreeNode> level = new Stack<TreeNode>();
