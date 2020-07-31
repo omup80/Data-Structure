@@ -23,7 +23,7 @@ return its level order traversal as:
 ]
 
  */
-class Solution {
+class LevelTraversal {
     public List<List<Integer>> levelOrder(TreeNode root) {
         
     List<List<Integer>> orderTraversal = new ArrayList<List<Integer>>();
